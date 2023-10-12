@@ -10,4 +10,4 @@ SPPU FInal Year Project
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-@all-contributors please add @kunalkanse for 👨🏼‍💻
+@all-contributors please add @kunalkanse for 👨🏼‍💻👨🏼‍💻
