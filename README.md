@@ -10,8 +10,8 @@ SPPU FInal Year Project
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-@all-contributors please add @kunalkanse for 👨🏼‍💻👨🏼‍💻
-
-<a href="https://github.com/OWNER/REPO/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=OWNER/REPO" />
+<a href="https://github.com/SHREYASH96OG/Face-Recognition-Based-Smart-Attendence-System/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SHREYASH96OG/Face-Recognition-Based-Smart-Attendence-System" />
 </a>
+
+Made with [contrib.rocks](https://contrib.rocks).
