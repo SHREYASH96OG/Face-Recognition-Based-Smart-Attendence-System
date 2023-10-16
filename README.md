@@ -112,6 +112,13 @@ the office.It can be constructed using a camera and computer.</p>
 
 ## How to Run
 
+
+
+https://github.com/SHREYASH96OG/Face-Recognition-Based-Smart-Attendence-System/assets/96031865/597dca93-990d-423c-a8e0-7370d4480c3c
+
+
+
+
 ## Contributors
 <a href="https://github.com/SHREYASH96OG/Face-Recognition-Based-Smart-Attendence-System/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=SHREYASH96OG/Face-Recognition-Based-Smart-Attendence-System" />
