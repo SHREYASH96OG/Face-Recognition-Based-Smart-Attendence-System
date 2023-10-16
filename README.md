@@ -84,6 +84,14 @@ is successful or not.</p>
   <li>Data damage</li>
 </ul>
 
+## Conclusion
+<p>Automated Attendance System has been envisioned for the purpose of reducing
+the errors that occur in the traditional (manual) attendance taking system. The
+aim is to automate and make a system that is useful to the organization such as an
+institute. The efficient and accurate method of attendance in the office environment
+that can replace the old manual methods. This method is secure enough, reliable
+and available for use. No need for specialized hardware for installing the system in
+the office.It can be constructed using a camera and computer.</p>
 ## Contributors
 <a href="https://github.com/SHREYASH96OG/Face-Recognition-Based-Smart-Attendence-System/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=SHREYASH96OG/Face-Recognition-Based-Smart-Attendence-System" />
