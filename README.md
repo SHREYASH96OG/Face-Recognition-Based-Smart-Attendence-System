@@ -11,3 +11,7 @@ SPPU FInal Year Project
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 @all-contributors please add @kunalkanse for 👨🏼‍💻👨🏼‍💻
+
+<a href="https://github.com/OWNER/REPO/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=OWNER/REPO" />
+</a>
