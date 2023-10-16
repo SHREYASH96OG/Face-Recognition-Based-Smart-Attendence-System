@@ -110,6 +110,8 @@ that can replace the old manual methods. This method is secure enough, reliable
 and available for use. No need for specialized hardware for installing the system in
 the office.It can be constructed using a camera and computer.</p>
 
+## How to Run
+
 ## Contributors
 <a href="https://github.com/SHREYASH96OG/Face-Recognition-Based-Smart-Attendence-System/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=SHREYASH96OG/Face-Recognition-Based-Smart-Attendence-System" />
