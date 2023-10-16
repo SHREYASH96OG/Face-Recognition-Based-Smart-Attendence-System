@@ -76,6 +76,14 @@ GUI.<br>
 6. Able to show an indication to the user whether the face- recognition process
 is successful or not.</p>
 
+## Advantages
+<ul>
+  <li>Only show users reviews from people they can trust.</li>
+  <li>To develop user friendly application.</li>
+  <li>Face detection system is a technology which increases Fairness Effectiveness.</li>
+  <li>To develop Smart attendance system.</li>
+</ul>
+
 ## Limitations
 <ul>
   <li>Multiple faces(more than 3)</li>
