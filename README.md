@@ -53,6 +53,37 @@ use texture features that is applied to whole face or some specific Regions, oth
 is Feature based which uses geometric features like mouth, nose, eyes, eye brows,
 cheeks and Relation between them. Statistical tools such as Linear Discriminate
 Analysis (LDA), Principal Component Analysis (PCA), Kernel Methods, and Neural Networks, Eigen-faces have been used for construction of face templates.</p>
+
+## Motivation
+<p>1. Daily attendance management system is observed.<br>
+2. Time consumption and work load is calculated.<br>
+3. Drawbacks of existing system are noted.</p>
+
+## Problem Definition
+<p>Face recognition-based attendance system is a problem of recognizing face for taking
+attendance by using face recognition technology based on high- definition monitor
+camera and other information technology. known faces to decide who that person
+is.</p>
+
+## Objective
+<p>1. To develop a portable Smart Attendance System which is handy and selfpowered.<br>
+2. Have sufficient memory space to store the database.<br>
+3. Able to recognize the face of an individual accurately based on the face
+database.<br>
+4. Develop a database for the attendance management system.<br>
+5. Allow new employees or staff to store their faces in the database by using a
+GUI.<br>
+6. Able to show an indication to the user whether the face- recognition process
+is successful or not.</p>
+
+## Limitations
+<ul>
+  <li>Multiple faces(more than 3)</li>
+  <li> Data loss</li>
+  <li>Information security and security on technical like network, device, OS etc.</li>
+  <li>Data damage</li>
+</ul>
+
 ## Contributors
 <a href="https://github.com/SHREYASH96OG/Face-Recognition-Based-Smart-Attendence-System/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=SHREYASH96OG/Face-Recognition-Based-Smart-Attendence-System" />
