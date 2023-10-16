@@ -1,8 +1,9 @@
 <h1 align="cemter">Face-Recognition-Based-Smart-Attendence-System(Python project)</h1>
 <div>
 SPPU Final Year Project<br>
-BY<br>
 </div>
+
+## Owners
 
 [Shreyash Gaikwad](https://github.com/SHREYASH96OG) <br>
 [Hs](https://github.com/HrutikSargar) <br>
