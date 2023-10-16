@@ -14,4 +14,4 @@ SPPU FInal Year Project
   <img src="https://contrib.rocks/image?repo=SHREYASH96OG/Face-Recognition-Based-Smart-Attendence-System" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+
