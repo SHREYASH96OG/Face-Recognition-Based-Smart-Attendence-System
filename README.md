@@ -92,6 +92,7 @@ institute. The efficient and accurate method of attendance in the office environ
 that can replace the old manual methods. This method is secure enough, reliable
 and available for use. No need for specialized hardware for installing the system in
 the office.It can be constructed using a camera and computer.</p>
+
 ## Contributors
 <a href="https://github.com/SHREYASH96OG/Face-Recognition-Based-Smart-Attendence-System/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=SHREYASH96OG/Face-Recognition-Based-Smart-Attendence-System" />
