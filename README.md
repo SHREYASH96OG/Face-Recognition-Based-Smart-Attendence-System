@@ -92,6 +92,15 @@ is successful or not.</p>
   <li>Data damage</li>
 </ul>
 
+## Application
+<ul>
+  <li>General identity verification.</li>
+  <li>Education System</li>
+  <li>Retail / Healthcare..</li>
+  <li>Applicable where attendance is necessary.</li>
+</ul>
+
+
 ## Conclusion
 <p>Automated Attendance System has been envisioned for the purpose of reducing
 the errors that occur in the traditional (manual) attendance taking system. The
