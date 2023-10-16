@@ -5,8 +5,8 @@ BY<br>
 </div>
 
 [Shreyash Gaikwad](https://github.com/SHREYASH96OG) <br>
-[Hrutik Sargar](https://github.com/HrutikSargar) <br>
-[Kunal Kanse](https://github.com/kunalkanse) <br>
+[Hs](https://github.com/HrutikSargar) <br>
+[Kk](https://github.com/kunalkanse) <br>
 
 ## Abstract
 <p>Automatic face recognition (AFR) technologies have seen dramatic improvements in performance over the past years, and such systems are now widely used for
