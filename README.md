@@ -6,7 +6,7 @@ SPPU Final Year Project<br>
 ## Owners
 
 [Shreyash Gaikwad](https://github.com/SHREYASH96OG) <br>
-[Hs](https://github.com/HrutikSargar) <br>
+[Hrutik Sargar](https://github.com/HrutikSargar) <br>
 [Kunal Kanse](https://github.com/kunalkanse) <br>
 
 ## Abstract
